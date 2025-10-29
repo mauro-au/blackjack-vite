@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/js-vite-blackjack/'
+  base: 'https://mauro-au.github.io/blackjack-vite/'
 })
